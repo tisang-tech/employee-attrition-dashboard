@@ -4,4 +4,3 @@ numpy
 matplotlib
 seaborn
 scikit-learn
- Copy package list
